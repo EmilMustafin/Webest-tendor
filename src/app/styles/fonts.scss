@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'New Amsterdam', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    src:
+        local('NewAmsterdam-Regular'),
+        url('../../shared/assets/fonts/Jost-SemiBold.woff2') format('woff2'),
+        url('../../shared/assets/fonts/NewAmsterdam-Regular.ttf') format('truetype');
+    font-display: swap;
+}
