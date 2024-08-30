@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ref, watch, onMounted, computed } from 'vue';
-
 import PaginationTender from '@/features/pagination-tender/pagination-tender.vue';
 import TenderList from '@/features/tender-list/tender-list.vue';
 import { getListTenders } from '@/shared/api/tenders/model/api';

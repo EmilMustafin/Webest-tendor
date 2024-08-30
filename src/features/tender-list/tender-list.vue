@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { defineProps } from 'vue';
-
 import { ITender } from '@/shared/api/tenders/model/types';
 
 defineProps<{
